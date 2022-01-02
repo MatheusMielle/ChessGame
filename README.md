@@ -15,7 +15,7 @@ Copyright (C) Matheus M Silva 2021
 
 Copyright (C) Fabian Gomez 2021
 
-1.	The purpose of this project is to create a chess game. Is going to display a representation of a chessboard on the screen. Is a 1 vs 1 game. The users will be able to choose a piece and then choose where they want to move it. The program will keep asking the user for input if he enters information out of bound. The program will get rid of an eliminated piece. The program calculates the behavior of each individual piece, for example, a tower can just move in a straight line. Alert the user when his kind is in check. The program ends when one of the kings is captured or the user attempts an invalid move more than 5 times.
+1.	The purpose of this project is to create a chess game. Is going to display a representation of a chessboard on the screen. Is a 1 vs 1 game. The users will be able to choose a piece and then choose where they want to move it. The program will keep asking the user for input if he enters information out of bound. The program will get rid of an eliminated piece. The program calculates the behavior of each individual piece, for example, a tower can just move in a straight line. The program ends when one of the kings is captured or the user attempts an invalid move more than 5 times.
 
 2.	Assumptions: 
 
