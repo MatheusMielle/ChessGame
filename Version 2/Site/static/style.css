@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('chess.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center 40%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fff; /* Adjust text color for better visibility on the background image */
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent background to enhance text visibility */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #fff;
+}
+
+p {
+    color: #eee;
+    margin-bottom: 20px;
+}
+
+.download-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #85745b;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.download-button:hover {
+    background-color: #000000;
+}
